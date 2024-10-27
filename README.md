@@ -28,7 +28,7 @@ Created an Artifact Collection Rule that has LimaCharlie collecting Sysmon logs
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/a6530068-1f3e-4416-8464-43e96581ac25">
 
 # Linux Server VM Setup
-Installed Sliver for C2 functionality
+Installed Sliver for C2 capabilities
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/5b203e95-9c62-44aa-8080-f2e07f623e5c">
 
