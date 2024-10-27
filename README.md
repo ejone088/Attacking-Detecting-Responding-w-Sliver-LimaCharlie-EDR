@@ -32,7 +32,7 @@ Installed Sliver for C2 capabilities
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/5b203e95-9c62-44aa-8080-f2e07f623e5c">
 
-Generated a C2 payload to later be dropped on the Windows VM and confirmed the payload is ready to go
+Generated a C2 payload later to be dropped on the Windows VM and confirmed the payload is ready to go
 
 <img width="435" alt="image" src="https://github.com/user-attachments/assets/663b8c2c-9f67-4436-a435-4d973ceac3b6">
 
