@@ -1,5 +1,5 @@
 # Attacking, Detecting and Responding w/Sliver & LimaCharlie (EDR)
-The following project replicates detecting malicious activity from Sliver (open-source alternative to Cobalt Strike) and responding to it using LimaCharlie.
+The following project replicates detecting malicious activity from Sliver (an open-source alternative to Cobalt Strike) and responding to it using LimaCharlie.
 
 Source (Eric Capuano's Guide): https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
 
