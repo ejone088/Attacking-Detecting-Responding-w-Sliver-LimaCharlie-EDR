@@ -3,7 +3,7 @@ The following project replicates detecting malicious activity from Sliver (open-
 
 Source (Eric Capuano's Guide): https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
 
-# Windows 11 Setup
+# Windows 11 VM Setup
 Disabled Windows Security features and Microsoft Defender using Windows Registry for testing purposes
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/be1afba1-5a2f-40e0-b980-71e5acf349eb">
@@ -27,7 +27,7 @@ Created an Artifact Collection Rule that has LimaCharlie collecting Sysmon logs
 
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/a6530068-1f3e-4416-8464-43e96581ac25">
 
-# Ubuntu Server Setup
+# Linux VM Server Setup
 Installed Sliver for C2 functionality
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/5b203e95-9c62-44aa-8080-f2e07f623e5c">
